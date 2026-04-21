@@ -1,0 +1,7 @@
+/project-root
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+└── images/ (هتحط فيها صور الخلفيات)
